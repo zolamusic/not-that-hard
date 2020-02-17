@@ -11,7 +11,8 @@ Code 설치 이후 확장 프로그램 설치 (아래 왼쪽 그림의 빨간네
 ![](./image/01/3.png)
 
 ## 그 외 다운로드만 할 것 ##
-1. [CMake](https://github.com/Kitware/CMake/releases/download/v3.16.4/cmake-3.16.4-win64-x64.zip)
-2. [Ninja](https://github.com/Kitware/ninja/releases/download/v1.9.0.g99df1.kitware.dyndep-1.jobserver-1/ninja-1.9.0.g99df1.kitware.dyndep-1.jobserver-1_i686-pc-windows-msvc.zip)
-3. [LLVM](http://releases.llvm.org/9.0.0/LLVM-9.0.0-win64.exe)
-4. [Git](https://github.com/git-for-windows/git/releases/download/v2.25.0.windows.1/PortableGit-2.25.0-64-bit.7z.exe)
+1. [CMake](https://github.com/Kitware/CMake)
+2. [Ninja](https://github.com/Kitware/ninja)
+3. [LLVM](http://releases.llvm.org)
+4. [Git](https://github.com/git-for-windows/git)
+5. [MinGW](https://github.com/brechtsanders/winlibs_mingw)
