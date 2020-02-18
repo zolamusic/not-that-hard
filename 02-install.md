@@ -9,3 +9,4 @@
 call "C:\Program Files (x86)\IntelSWTools\compilers_and_libraries\windows\bin\ipsxe-comp-vars.bat" intel64 vs2019
 start "Visual Studio Code with Intel Compiler" /B "C:\Program Files\Microsoft VS Code\Code.exe"
 ```
+* [Visual Studio Code setup for C++](https://goodgodgd.github.io/ian-flow/archivers/vscode-tutorial)
